@@ -1,4 +1,4 @@
-<h1 align="center">Tomato leaf disease prediction machine learning app 🍅 </h1>
+<h1 align="center">Tomato leaf disease prediction machine learning app </h1>
 
 
 - ### Tech Stack used:
