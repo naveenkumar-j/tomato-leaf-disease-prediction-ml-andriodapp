@@ -32,7 +32,20 @@
 	</center>
   
 ## About Project:
-I created a Machine learning Android app that can able to classify whether a tomato leaf is healthy or infected. To train the tomato leaf classification model, I used google's teachable machine.
+Today, the technology is used in every aspect of life. Farmers are facing
+difficulties in manually identifying the tomato leaf diseases in plants. Also, expert
+advice is not available easily to the farmers. It is beneficiary to have an automated
+mechanism to identify the tomato leaf diseases. The proposed method used
+machine learning techniques to detect the tomato leaf diseases in plants.
+
+## Motivation:
+Tomato Plant diseases are the common reason for low yield and reduced income to
+the farmers. Currently,researchers are trying their best to find a mechanism that
+automatically detects the tomato leaf diseases.Accurate identification of tomato
+leaf diseases may help in finding a remedy at the earliest to control the
+loss. Our project attempts to develop a novel approach by using machine learning
+techniques to predict the tomato leaf diseases.
+
 
 
 
