@@ -1,4 +1,4 @@
-<h1 align="center">Tomato leaf disease prediction machine learning app </h1>
+<h1 align="center" id="app">Tomato leaf disease prediction machine learning app </h1>
 
 
 - ### Tech Stack used:
@@ -56,6 +56,6 @@ https://user-images.githubusercontent.com/70682152/157408464-a2ea0698-f123-41ec-
 
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#app">↥ back to top</a></b>
 </div>
 
